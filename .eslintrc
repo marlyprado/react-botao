@@ -21,6 +21,10 @@
     "jest"
   ],
   "rules": {
+    "react/prop-types": "off",
+    "react/button-has-type": "off",
+    "react/jsx-props-no-spreading": "off",
+    "import/prefer-default-export": "off",
     "react/jsx-filename-extension": [
       1,
       {
